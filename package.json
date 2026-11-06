@@ -1,0 +1,10 @@
+{
+  "name": "ladrillo-beans-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "preview": "python -m http.server 8080"
+  },
+  "description": "Responsive Ladrillo Beans business website. Static frontend with Decap CMS admin."
+}
