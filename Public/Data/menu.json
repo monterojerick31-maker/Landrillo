@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "id": "laksa",
+      "name": "Laksa",
+      "category": "Bowls",
+      "description": "A rich, aromatic bowl with a vibrant broth and generous toppings.",
+      "image": "/images/laksa.jpg",
+      "featured": true
+    },
+    {
+      "id": "ramen",
+      "name": "Ramen",
+      "category": "Bowls",
+      "description": "A comforting noodle bowl topped with savoury ingredients.",
+      "image": "/images/ramen.jpg",
+      "featured": true
+    },
+    {
+      "id": "party-trays",
+      "name": "Party Trays",
+      "category": "Catering",
+      "description": "Handcrafted party-tray selections for gatherings and celebrations.",
+      "image": "/images/party-tray.jpg",
+      "featured": true
+    },
+    {
+      "id": "catering-rolls",
+      "name": "Catering Selections",
+      "category": "Catering",
+      "description": "Shareable savoury selections prepared for get-togethers.",
+      "image": "/images/catering-rolls.jpg",
+      "featured": true
+    },
+    {
+      "id": "breakfast",
+      "name": "Breakfast Sets",
+      "category": "Meals",
+      "description": "A satisfying breakfast spread for busy mornings and shared tables.",
+      "image": "/images/breakfast.jpg",
+      "featured": false
+    },
+    {
+      "id": "best-seller",
+      "name": "Featured Savoury Selection",
+      "category": "Favourites",
+      "description": "A savoury selection featured on the Ladrillo Beans page. Message us for the exact item name and availability.",
+      "image": "/images/best-seller.jpg",
+      "featured": true
+    },
+    {
+      "id": "coffee",
+      "name": "Coffee & Specialty Drinks",
+      "category": "Drinks",
+      "description": "A selection of coffee and specialty drinks. Ask us about the current menu.",
+      "image": "/images/coffee.jpg",
+      "featured": true
+    },
+    {
+      "id": "cakes",
+      "name": "Cakes & Desserts",
+      "category": "Desserts",
+      "description": "Sweet centrepieces and dessert selections for special occasions.",
+      "image": "/images/cake.jpg",
+      "featured": false
+    },
+    {
+      "id": "potato-wedges",
+      "name": "Potato Wedges",
+      "category": "Sides",
+      "description": "Golden seasoned wedges served with a dipping sauce.",
+      "image": "/images/potato-wedges.jpg",
+      "featured": false
+    },
+    {
+      "id": "seafood-tray",
+      "name": "Seafood & Pasta Selection",
+      "category": "Catering",
+      "description": "A generous seafood-and-pasta tray from the Ladrillo Beans photo collection.",
+      "image": "/images/seafood-tray.jpg",
+      "featured": false
+    }
+  ]
+}
